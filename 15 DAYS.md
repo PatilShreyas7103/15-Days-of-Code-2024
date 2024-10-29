@@ -10,7 +10,6 @@ Watched 3 videos of Dynamic Programming by Aditya Verma :
 
 - I gave Contest on CodeChef Div 3 -> Solved first 3 problems :
 [START157](https://www.codechef.com/START157C?order=desc&sortBy=successful_submissions)
-Solved 3 problems of div 3.
 
 ### Day 2 
 24 October 2024
