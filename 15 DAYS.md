@@ -40,12 +40,12 @@ Watched 2 videos of Dynamic Programming by Aditya Verma :
 - 2. [Scrambled String Memoized](https://youtu.be/VyHEglhbm-A?si=5j_uRJaE9S3KQJAP)
  
 Virtually participated in 2 contests on CodeForces which I missed in past 3 days
-- CodeForces round 982 (Div 2)
+- CodeForces round 982 (Div 2) : 
   A. [Rectangle Arrangement](https://codeforces.com/contest/2027/submission/288716685)
   B. [Stalin Sort](https://codeforces.com/contest/2027/submission/288723222)
-- CodeForces global round 27
+- CodeForces global round 27 : 
   A. [Sliding](https://codeforces.com/contest/2035/submission/288730654)
   B. [Everyone Loves Tres](https://codeforces.com/contest/2035/submission/288739554)
-- Solved 1 TLE sheet problem
+- Solved 1 TLE sheet problem : 
   [Goals of Victory](https://codeforces.com/contest/1877/submission/288727965)
 
