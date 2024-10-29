@@ -31,6 +31,8 @@ Watched 5 videos of Dynamic Programming by Aditya Verma :
 - 3. [Palindrome partitioning Optimisation](https://youtu.be/9h10fqkI7Nk?si=eKY_XVmxbgLAyIwJ)
 - 4. [Evaluate Expression to True Boolean Parenthesization Recursive](https://youtu.be/pGVguAcWX4g?si=pDhIcKlV1npsfbYV)
 - 5. [Evaluate Expression To True Boolean Parenthesization Memoized](https://youtu.be/bzXM1Zond9U?si=CLkqDfL5AkUzrnMd)
+
+ Note : Couldn't update GitHub for 3 days because I was in Goa.
  
  ### Day 4 
 28 October 2024
