@@ -41,10 +41,10 @@ Watched 2 videos of Dynamic Programming by Aditya Verma :
  
 Virtually participated in 2 contests on CodeForces which I missed in past 3 days
 - CodeForces round 982 (Div 2) : 
-  A. [Rectangle Arrangement](https://codeforces.com/contest/2027/submission/288716685)
+  A. [Rectangle Arrangement](https://codeforces.com/contest/2027/submission/288716685)<br>
   B. [Stalin Sort](https://codeforces.com/contest/2027/submission/288723222)
 - CodeForces global round 27 : 
-  A. [Sliding](https://codeforces.com/contest/2035/submission/288730654)
+  A. [Sliding](https://codeforces.com/contest/2035/submission/288730654)<br>
   B. [Everyone Loves Tres](https://codeforces.com/contest/2035/submission/288739554)
 - Solved 1 TLE sheet problem : 
   [Goals of Victory](https://codeforces.com/contest/1877/submission/288727965)
