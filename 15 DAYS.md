@@ -66,8 +66,8 @@ Watched 3 videos of Dynamic Programming by Aditya Verma :
      3. [Buying Game](https://www.codechef.com/viewsolution/1103057372)
      4. [Multiply 2 to Minimize](https://www.codechef.com/viewsolution/1103072788)
 
-     Solved 2 problems on CodeForces :
-     [Sakurako and Water](https://codeforces.com/contest/2033/submission/288852725)
+     Solved 2 problems on CodeForces :<br>
+     [Sakurako and Water](https://codeforces.com/contest/2033/submission/288852725)<br>
      [Ambitious Kid](https://codeforces.com/contest/1866/submission/288991794)
  
   ### Day 6
@@ -80,13 +80,13 @@ Watched 5 videos of Dynamic Programming by Aditya Verma :
 - 4. [Maximum Path Sum | From any node to any node](https://youtu.be/Osz-Vwer6rw?si=T01ghqVSWb5NFA7p)
 - 5. [Maximum Path sum | From leaf node to leaf node](https://youtu.be/ArNyupe-XH0?si=dUjujhmZQ4zzKwrC)
 
-     Solved 7 problems on CodeForces :
-     [United We Stand](https://codeforces.com/contest/1859/submission/289019565)
-     [Coins](https://codeforces.com/contest/1814/submission/289024697)
-     [Extremely Round](https://codeforces.com/contest/1766/submission/289039317)
-     [Make it beautiful](https://codeforces.com/contest/1783/submission/289041683)
-     [Serval and Mocha's Array](https://codeforces.com/contest/1789/submission/289048020)
-     [Walking master](https://codeforces.com/contest/1806/submission/289053798)
+     Solved 7 problems on CodeForces :<br>
+     [United We Stand](https://codeforces.com/contest/1859/submission/289019565)<br>
+     [Coins](https://codeforces.com/contest/1814/submission/289024697)<br>
+     [Extremely Round](https://codeforces.com/contest/1766/submission/289039317)<br>
+     [Make it beautiful](https://codeforces.com/contest/1783/submission/289041683)<br>
+     [Serval and Mocha's Array](https://codeforces.com/contest/1789/submission/289048020)<br>
+     [Walking master](https://codeforces.com/contest/1806/submission/289053798)<br>
      [One and Two](https://codeforces.com/contest/1788/submission/289055232)
 
 
