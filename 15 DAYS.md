@@ -35,7 +35,7 @@ Watched 5 videos of Dynamic Programming by Aditya Verma :
  Note : Couldn't update GitHub for 3 days because I was in Goa.
  
  ### Day 4 
-28 October 2024
+29 October 2024
 
 Watched 2 videos of Dynamic Programming by Aditya Verma :
 - 1. [Scrambled String Recursive](https://youtu.be/SqA0o-DGmEw?si=Fmqk7fJ3djMZVbQH)
@@ -50,4 +50,43 @@ Virtually participated in 2 contests on CodeForces which I missed in past 3 days
   B. [Everyone Loves Tres](https://codeforces.com/contest/2035/submission/288739554)
 - Solved 1 TLE sheet problem : 
   [Goals of Victory](https://codeforces.com/contest/1877/submission/288727965)
+
+ ### Day 5
+ 30 October 2024
+
+Watched 3 videos of Dynamic Programming by Aditya Verma :
+- 1. [Egg Dropping Problem Recursive](https://youtu.be/S49zeUjeUL0?si=XShLFviW-CHknxjD)
+- 2. [Egg Dropping Problem Memoization](https://youtu.be/gr2NtY-2QUY?si=6ZEZkYGeLb27iFbB)
+- 3. [Egg Dropping Problem Memoization Optimization](https://youtu.be/jkygQmOiCCI?si=HJc1MWIpc8vgmLSH)
+
+     I gave contest on CodeChef START158 (Div 3)
+     Solved 2 Problems and later upsolved 2 problems.
+     1. [Even vs Odd Divisors](https://www.codechef.com/viewsolution/1102800637)
+     2. [Largest Subsequence](https://www.codechef.com/viewsolution/1102835849)
+     3. [Buying Game](https://www.codechef.com/viewsolution/1103057372)
+     4. [Multiply 2 to Minimize](https://www.codechef.com/viewsolution/1103072788)
+
+     Solved 2 problems on CodeForces :
+     [Sakurako and Water](https://codeforces.com/contest/2033/submission/288852725)
+     [Ambitious Kid](https://codeforces.com/contest/1866/submission/288991794)
+ 
+  ### Day 6
+ 31 October 2024
+
+Watched 5 videos of Dynamic Programming by Aditya Verma :
+- 1. [Dynamic programming on Trees Introduction and Identification](https://youtu.be/qZ5zayHSH2g?si=xWyFWzgKXuu6DmIe)
+- 2. [Dynamic Programming on Tree General Syntax](https://youtu.be/d1u2t018Kjg?si=dI1BTV5FXdberMTQ)
+- 3. [Diameter of a Binary Tree](https://youtu.be/zmPj_Ee3B8c?si=KD8eYXeDKST884sI)
+- 4. [Maximum Path Sum | From any node to any node](https://youtu.be/Osz-Vwer6rw?si=T01ghqVSWb5NFA7p)
+- 5. [Maximum Path sum | From leaf node to leaf node](https://youtu.be/ArNyupe-XH0?si=dUjujhmZQ4zzKwrC)
+
+     Solved 7 problems on CodeForces :
+     [United We Stand](https://codeforces.com/contest/1859/submission/289019565)
+     [Coins](https://codeforces.com/contest/1814/submission/289024697)
+     [Extremely Round](https://codeforces.com/contest/1766/submission/289039317)
+     [Make it beautiful](https://codeforces.com/contest/1783/submission/289041683)
+     [Serval and Mocha's Array](https://codeforces.com/contest/1789/submission/289048020)
+     [Walking master](https://codeforces.com/contest/1806/submission/289053798)
+     [One and Two](https://codeforces.com/contest/1788/submission/289055232)
+
 
