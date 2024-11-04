@@ -90,7 +90,7 @@ Watched 5 videos of Dynamic Programming by Aditya Verma :
      [One and Two](https://codeforces.com/contest/1788/submission/289055232)
 
  ### Day 7
- 2 November 2024
+ 2 November 2024 <br>
  Gave contest on CodeForces Round 984 (Div 3)
  1. [A. Quintomania](https://codeforces.com/contest/2036/submission/289472385)
  2. [B. Startup](https://codeforces.com/contest/2036/submission/289496556)
@@ -99,7 +99,7 @@ Watched 5 videos of Dynamic Programming by Aditya Verma :
  5. [A. Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/submission/289930929)
 
  ### Day 8
- 4 November 2024
+ 4 November 2024<br>
  Solved rating wise problems on CodeForces from CP31 sheet TLE
 1. [Two permutations.](https://codeforces.com/contest/1761/submission/289934280)
 2. [We need the zero.](https://codeforces.com/contest/1805/submission/289940040)
