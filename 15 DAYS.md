@@ -89,4 +89,25 @@ Watched 5 videos of Dynamic Programming by Aditya Verma :
      [Walking master](https://codeforces.com/contest/1806/submission/289053798)<br>
      [One and Two](https://codeforces.com/contest/1788/submission/289055232)
 
+ ### Day 7
+ 2 November 2024
+ Gave contest on CodeForces Round 984 (Div 3)
+ 1. [A. Quintomania](https://codeforces.com/contest/2036/submission/289472385)
+ 2. [B. Startup](https://codeforces.com/contest/2036/submission/289496556)
+ 3. [C. Anya and 1100](https://codeforces.com/contest/2036/submission/289538086)
+ 4. [A. Circuit](https://codeforces.com/contest/2032/submission/289654994)
+ 5. [A. Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/submission/289930929)
 
+ ### Day 8
+ 4 November 2024
+ Solved rating wise problems on CodeForces from CP31 sheet TLE
+1. [Two permutations.](https://codeforces.com/contest/1761/submission/289934280)
+2. [We need the zero.](https://codeforces.com/contest/1805/submission/289940040)
+3. [Buttons](https://codeforces.com/contest/1858/submission/289949996)
+4. [Doremy's Paint 3](https://codeforces.com/contest/1890/submission/289968118)
+5. [Jagged Swaps](https://codeforces.com/contest/1896/submission/289971072)
+6. [Forbidden Integer](https://codeforces.com/contest/1845/submission/289978750)
+7. [Unit array](https://codeforces.com/contest/1834/submission/289981791)
+8. [Grasshopper on a line](https://codeforces.com/contest/1837/submission/289983644)
+9. [Desorting ](https://codeforces.com/contest/1853/submission/289985686)
+10. [Twin Permutations](https://codeforces.com/contest/1831/submission/289989912)
