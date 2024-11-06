@@ -111,3 +111,28 @@ Watched 5 videos of Dynamic Programming by Aditya Verma :
 8. [Grasshopper on a line](https://codeforces.com/contest/1837/submission/289983644)
 9. [Desorting ](https://codeforces.com/contest/1853/submission/289985686)
 10. [Twin Permutations](https://codeforces.com/contest/1831/submission/289989912)
+
+ ### Day 9
+ 5 November 2024<br>
+ Solved 3 Problems on Codeforces 
+ 1. [Forked](https://codeforces.com/contest/1904/submission/290103338)
+ 2. [Chemistry](https://codeforces.com/contest/1883/submission/285360785)
+ 3. [Vasilije in Cacak](https://codeforces.com/contest/1878/submission/290247547)
+
+    Slept early due to headache hence could not solve more problems.
+
+### Day 10
+ 6 November 2024<br>
+ Solved 6 Problems on Codeforces 
+ 1.[Jellyfish and Undertale](https://codeforces.com/contest/1875/submission/290251445)
+ 2.[Make it zero](https://codeforces.com/contest/1869/submission/290287218)
+ 3.[Longest Divisors Interval](https://codeforces.com/contest/1855/submission/290296824)
+ 4.[Balanced Round](https://codeforces.com/contest/1850/submission/290300186)
+ 5.[Comparison String ](https://codeforces.com/contest/1837/submission/290303819)
+ 6.[Permutation Swap](https://codeforces.com/contest/1828/submission/290305788)
+
+ I gave contest on CodeChef START 159 -> Solved first 2 problems
+ 1. [Card Game](https://www.codechef.com/viewsolution/1104487996)
+ 2. [Elections](https://www.codechef.com/viewsolution/1104523599)
+Going to upsolve this contest tomorrow.
+    
