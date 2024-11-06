@@ -123,16 +123,16 @@ Watched 5 videos of Dynamic Programming by Aditya Verma :
 
 ### Day 10
  6 November 2024<br>
- Solved 6 Problems on Codeforces 
- 1.[Jellyfish and Undertale](https://codeforces.com/contest/1875/submission/290251445)
- 2.[Make it zero](https://codeforces.com/contest/1869/submission/290287218)
- 3.[Longest Divisors Interval](https://codeforces.com/contest/1855/submission/290296824)
- 4.[Balanced Round](https://codeforces.com/contest/1850/submission/290300186)
- 5.[Comparison String ](https://codeforces.com/contest/1837/submission/290303819)
- 6.[Permutation Swap](https://codeforces.com/contest/1828/submission/290305788)
+ Solved 6 Problems on Codeforces <br>
+ 1.[Jellyfish and Undertale](https://codeforces.com/contest/1875/submission/290251445)<br>
+ 2.[Make it zero](https://codeforces.com/contest/1869/submission/290287218)<br>
+ 3.[Longest Divisors Interval](https://codeforces.com/contest/1855/submission/290296824)<br>
+ 4.[Balanced Round](https://codeforces.com/contest/1850/submission/290300186)<br>
+ 5.[Comparison String ](https://codeforces.com/contest/1837/submission/290303819)<br>
+ 6.[Permutation Swap](https://codeforces.com/contest/1828/submission/290305788)<br>
 
  I gave contest on CodeChef START 159 -> Solved first 2 problems
  1. [Card Game](https://www.codechef.com/viewsolution/1104487996)
- 2. [Elections](https://www.codechef.com/viewsolution/1104523599)
-Going to upsolve this contest tomorrow.
+ 2. [Elections](https://www.codechef.com/viewsolution/1104523599)<br>
+  Going to upsolve this contest tomorrow.
     
