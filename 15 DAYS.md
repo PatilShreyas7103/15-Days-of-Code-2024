@@ -134,5 +134,16 @@ Watched 5 videos of Dynamic Programming by Aditya Verma :
  I gave contest on CodeChef START 159 -> Solved first 2 problems
  1. [Card Game](https://www.codechef.com/viewsolution/1104487996)
  2. [Elections](https://www.codechef.com/viewsolution/1104523599)<br>
-  Going to upsolve this contest tomorrow.
-    
+
+ ### Day 11
+ 7 November 2024<br>
+  Solved  Problems on Codeforces : <br>
+  1. [Odd Queries](https://codeforces.com/contest/1807/submission/290389646)
+  2. [Not dividing](https://codeforces.com/contest/1794/submission/290393976)
+  3. [Mainak and Array](https://codeforces.com/contest/1726/submission/290398971)
+  4. [NIT destroys the universe.](https://codeforces.com/contest/1696/submission/290414801)
+  5. [Avtobus](https://codeforces.com/contest/1679/submission/290448587)
+  6. [Make it increasing](https://codeforces.com/contest/1675/submission/290451837)
+  7. [Deletive Editing](https://codeforces.com/contest/1666/submission/290461229)
+  8. [Array Cloning Technique](https://codeforces.com/contest/1665/submission/290465384)
+  9. [Make AP](https://codeforces.com/contest/1624/submission/290468810)
