@@ -137,7 +137,7 @@ Watched 5 videos of Dynamic Programming by Aditya Verma :
 
  ### Day 11
  7 November 2024<br>
-  Solved  Problems on Codeforces : <br>
+  Solved 9 Problems on Codeforces : <br>
   1. [Odd Queries](https://codeforces.com/contest/1807/submission/290389646)
   2. [Not dividing](https://codeforces.com/contest/1794/submission/290393976)
   3. [Mainak and Array](https://codeforces.com/contest/1726/submission/290398971)
