@@ -147,3 +147,14 @@ Watched 5 videos of Dynamic Programming by Aditya Verma :
   7. [Deletive Editing](https://codeforces.com/contest/1666/submission/290461229)
   8. [Array Cloning Technique](https://codeforces.com/contest/1665/submission/290465384)
   9. [Make AP](https://codeforces.com/contest/1624/submission/290468810)
+
+ ### Day 12
+8 November 2024<br>
+Solved 7 problems on Codeforces : 
+1. [Odd grasshopper](https://codeforces.com/contest/1607/submission/290558160)
+2. [AB balance](https://codeforces.com/contest/1606/submission/290581418)
+3. [Make it divisible by 25](https://codeforces.com/contest/1593/submission/290586510)
+4. [Luntik and Subsequences](https://codeforces.com/contest/1582/submission/290595535)
+5. [Mocha and math](https://codeforces.com/contest/1559/submission/290604295)
+6. [Exciting bets](https://codeforces.com/contest/1543/submission/290606056)
+7. [Bad boy](https://codeforces.com/contest/1537/submission/290608710)
