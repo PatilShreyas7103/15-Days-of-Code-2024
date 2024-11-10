@@ -158,3 +158,18 @@ Solved 7 problems on Codeforces :
 5. [Mocha and math](https://codeforces.com/contest/1559/submission/290604295)
 6. [Exciting bets](https://codeforces.com/contest/1543/submission/290606056)
 7. [Bad boy](https://codeforces.com/contest/1537/submission/290608710)
+
+ ### Day 13
+9 November 2024<br>
+Solved 6 problems on Codeforces : 
+1. [Odd divisor](https://codeforces.com/contest/1475/submission/290643396)
+2. [Odd [partition](https://codeforces.com/contest/1471/submission/290646948)
+3. [Sum of medians](https://codeforces.com/contest/1440/submission/290658560)
+4. [Three indices](https://codeforces.com/contest/1380/submission/290703661)
+5. [01 game](https://codeforces.com/contest/1373/submission/290804765)
+6. [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/submission/290811522)
+   
+- Gave contest on Codeforces -> Refact.ai Match 1 (Codeforces Round 985, Div. 1 + Div. 2)
+  Succesfully solved first 2 questions with global rank of 3605.
+  [A. Set](https://codeforces.com/contest/2029/submission/290710331) <br>
+  [B. Replacement](https://codeforces.com/contest/2029/submission/290723540) <br>
