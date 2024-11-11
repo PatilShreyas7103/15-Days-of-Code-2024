@@ -173,3 +173,14 @@ Solved 6 problems on Codeforces :
   Succesfully solved first 2 questions with global rank of 3605.<br>
   [A. Set](https://codeforces.com/contest/2029/submission/290710331) <br>
   [B. Replacement](https://codeforces.com/contest/2029/submission/290723540) <br>
+
+ ### Day 14
+10 November 2024<br>
+Solved 7 problems on Codeforces : 
+1. [Battle for survive](https://codeforces.com/contest/2013/submission/290822323)
+2. [Football](https://codeforces.com/contest/96/submission/290824377)
+3. [Twins](https://codeforces.com/contest/160/submission/290825734)
+4. [Even odds](https://codeforces.com/contest/318/submission/290826630)
+5. [Bus to penjamo](https://codeforces.com/contest/2022/submission/290881730)
+6. [Minimize oneness](https://codeforces.com/contest/2030/submission/290923664)
+7. [Find minimum operations](https://codeforces.com/contest/2020/submission/290944656)
